@@ -3,6 +3,8 @@ RSImageFitness
 
 UIImage category to get fitness image.
 
+#持续关注马航事件。
+
     /**
      *  Create a new UIImage instance if its size NOT equals to the give size,
      *  otherwise retrun the unchanged self.
@@ -24,8 +26,6 @@ UIImage category to get fitness image.
      *  and current screen scale.
      */
     - (UIImage *)imageWithNewSize:(CGSize)newSize;
-    
-#持续关注马航事件。
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yeahdongcn/rsimagefitness/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
