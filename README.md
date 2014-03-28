@@ -5,6 +5,7 @@ UIImage category to get fitness image.
 
 #持续关注马航事件。
 
+
     /**
      *  Create a new UIImage instance if its size NOT equals to the give size,
      *  otherwise retrun the unchanged self.
